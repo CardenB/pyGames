@@ -1,0 +1,6 @@
+[submodule "simpleguitk"]
+	path = simpleguitk
+	url = https://github.com/dholm/simpleguitk.git
+[submodule "lib/simpleguitk"]
+	path = lib/simpleguitk
+	url = https://github.com/dholm/simpleguitk.git
