@@ -1,6 +1,6 @@
 # implementation of card game - Memory
 
-import lib.simpleguitk.simpleguitk as simplegui
+import simpleguitk as simplegui
 import random
 import math
 

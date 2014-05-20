@@ -1,5 +1,5 @@
 # template for "Stopwatch: The Game"
-import lib.simpleguitk.simpleguitk as simplegui
+import simpleguitk as simplegui
 
 # define global variables
 TIME_INTERVAL = 100 #100 milliseconds or .1 seconds
